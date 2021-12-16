@@ -1,5 +1,5 @@
 var router = require('express').Router();
-var brain = require('brain.js')
+var brain = require('brainjs')
 
 const net = new brain.NeuralNetwork({ hiddenLayers: [3] });
 
