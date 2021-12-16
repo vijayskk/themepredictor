@@ -1,0 +1,13 @@
+{
+  "name": "themepredictorapi",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.4",
+    "express": "~4.16.1",
+    "nodemon": "^2.0.15"
+  }
+}
